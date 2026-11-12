@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "soup", "name": "Soup", "section": "Soup & Starters",
+    "items": [
+      { "name": "Chicken Clear Soup", "veg": false, "options": [["Regular", 60]] },
+      { "name": "Chicken Hot and Sour Soup", "veg": false, "options": [["Regular", 70]] },
+      { "name": "Chicken Manchow Soup", "veg": false, "options": [["Regular", 80]] },
+      { "name": "Nandu Soup", "veg": false, "options": [["Regular", 80]] }
+    ]
+  },
+  {
+    "slug": "non-veg-starters", "name": "Non Veg Starters", "section": "Soup & Starters",
+    "items": [
+      { "name": "Chicken 65 (6 pcs)", "veg": false, "options": [["Regular", 160]] },
+      { "name": "Prawn 65", "veg": false, "options": [["Regular", 200]] },
+      { "name": "Pepper Chicken", "veg": false, "options": [["Regular", 160]] },
+      { "name": "Chicken Wings (6 pcs)", "veg": false, "options": [["Regular", 160]] },
+      { "name": "Lollipop (5 pcs)", "veg": false, "options": [["Regular", 160]] },
+      { "name": "Honey Chicken", "veg": false, "options": [["Regular", 180]] },
+      { "name": "Dragon Chicken", "veg": false, "options": [["Regular", 180]] },
+      { "name": "Chicken Manchurian", "veg": false, "options": [["Regular", 150]] },
+      { "name": "Prawn Manchurian", "veg": false, "options": [["Regular", null]] },
+      { "name": "Chilli Chicken", "veg": false, "options": [["Regular", 150]] },
+      { "name": "Chilli Prawn", "veg": false, "options": [["Regular", 190]] }
+    ]
+  },
+  {
+    "slug": "veg-starters", "name": "Veg Starters", "section": "Soup & Starters",
+    "items": [
+      { "name": "Mushroom 65", "veg": true, "options": [["Regular", 150]] },
+      { "name": "Mushroom Manchurian", "veg": true, "options": [["Regular", 250]] },
+      { "name": "Paneer Manchurian", "veg": true, "options": [["Regular", 150]] },
+      { "name": "Gobi Manchurian", "veg": true, "options": [["Regular", 150]] },
+      { "name": "Chilli Mushroom", "veg": true, "options": [["Regular", 150]] },
+      { "name": "Chilli Paneer", "veg": true, "options": [["Regular", 150]] },
+      { "name": "Chilli Gobi", "veg": true, "options": [["Regular", 150]] }
+    ]
+  },
+  {
+    "slug": "rice", "name": "Rice", "section": "Rice, Noodles & Indian Gravy",
+    "items": [
+      { "name": "Egg Rice", "veg": false, "options": [["Regular", 120]] },
+      { "name": "Chicken Rice", "veg": false, "options": [["Regular", 140]] },
+      { "name": "Prawn Rice", "veg": false, "options": [["Regular", 180]] },
+      { "name": "Mixed Non-Veg Rice", "veg": false, "options": [["Regular", 190]] },
+      { "name": "Veg Rice", "veg": true, "options": [["Regular", 100]] },
+      { "name": "Mushroom Rice", "veg": true, "options": [["Regular", 140]] },
+      { "name": "Paneer Rice", "veg": true, "options": [["Regular", 140]] },
+      { "name": "Gobi Rice", "veg": true, "options": [["Regular", 140]] },
+      { "name": "Babycorn Rice", "veg": true, "options": [["Regular", 160]] },
+      { "name": "Garlic Rice", "veg": true, "options": [["Regular", 160]] },
+      { "name": "Burnt Garlic Rice", "veg": true, "options": [["Regular", 170]] },
+      { "name": "Mixed Veg Rice", "veg": true, "options": [["Regular", 100]] },
+      { "name": "Andhra Ghee Rice", "veg": true, "options": [["Regular", null]] }
+    ]
+  },
+  {
+    "slug": "noodles", "name": "Noodles", "section": "Rice, Noodles & Indian Gravy",
+    "note": "Noodles available 5:00 PM to 2:00 AM", "availableFrom": "17:00", "availableTo": "02:00",
+    "items": [
+      { "name": "Egg Noodles", "veg": false, "options": [["Regular", 120]] },
+      { "name": "Chicken Noodles", "veg": false, "options": [["Regular", 140]] },
+      { "name": "Prawn Noodles", "veg": false, "options": [["Regular", 180]] },
+      { "name": "Mixed Non-Veg Noodles", "veg": false, "options": [["Regular", 190]] },
+      { "name": "Veg Noodles", "veg": true, "options": [["Regular", 100]] },
+      { "name": "Mushroom Noodles", "veg": true, "options": [["Regular", 140]] },
+      { "name": "Paneer Noodles", "veg": true, "options": [["Regular", 140]] },
+      { "name": "Gobi Noodles", "veg": true, "options": [["Regular", 140]] },
+      { "name": "Garlic Noodles", "veg": true, "options": [["Regular", 160]] },
+      { "name": "Mixed Veg Noodles", "veg": true, "options": [["Regular", 170]] }
+    ]
+  },
+  {
+    "slug": "indian-gravy", "name": "Indian Gravy", "section": "Rice, Noodles & Indian Gravy",
+    "items": [
+      { "name": "Hyderabad Chicken Gravy", "veg": false, "options": [["Regular", 230]] },
+      { "name": "Kadhai Chicken", "veg": false, "options": [["Regular", 210]] },
+      { "name": "Kadhai Mushroom", "veg": true, "options": [["Regular", 200]] },
+      { "name": "Paneer Butter Masala", "veg": true, "options": [["Regular", 210]] },
+      { "name": "Gobi Masala", "veg": true, "options": [["Regular", 130]] },
+      { "name": "Kadhai Paneer", "veg": true, "options": [["Regular", 190]] },
+      { "name": "Palak Paneer", "veg": true, "options": [["Regular", 210]] },
+      { "name": "Chettinad Chicken", "veg": false, "options": [["Regular", 180]] },
+      { "name": "Butter Chicken", "veg": false, "options": [["Regular", 200]] }
+    ]
+  },
+  {
+    "slug": "grill", "name": "Grill", "section": "Grill, Shawarma & Bread",
+    "items": [
+      { "name": "Classic Grill", "veg": false, "options": [["Quarter", 150], ["Half", 230], ["Full", 430]] },
+      { "name": "Peri Peri Grill", "veg": false, "options": [["Quarter", 170], ["Half", 250], ["Full", 450]] }
+    ]
+  },
+  {
+    "slug": "shawarma-roll", "name": "Shawarma Roll", "section": "Grill, Shawarma & Bread",
+    "items": [
+      { "name": "Classic Shawarma Roll", "veg": false, "options": [["Regular", 120], ["Full Meat", 150]] },
+      { "name": "Peri Peri Shawarma Roll", "veg": false, "options": [["Regular", 130], ["Full Meat", 160]] },
+      { "name": "Schezwan Shawarma Roll", "veg": false, "options": [["Regular", 130], ["Full Meat", 160]] },
+      { "name": "Mexican Shawarma Roll", "veg": false, "options": [["Regular", 140], ["Full Meat", 170]] },
+      { "name": "Cheese Shawarma Roll", "veg": false, "options": [["Regular", 140], ["Full Meat", 170]] }
+    ]
+  },
+  {
+    "slug": "shawarma-plate", "name": "Shawarma Plate", "section": "Grill, Shawarma & Bread",
+    "items": [
+      { "name": "Classic Shawarma Plate", "veg": false, "options": [["Regular", null], ["Full Meat", 240]] },
+      { "name": "Peri Peri Shawarma Plate", "veg": false, "options": [["Regular", 190], ["Full Meat", 250]] },
+      { "name": "Schezwan Shawarma Plate", "veg": false, "options": [["Regular", 190], ["Full Meat", 250]] },
+      { "name": "Mexican Shawarma Plate", "veg": false, "options": [["Regular", 200], ["Full Meat", 260]] },
+      { "name": "Cheese Shawarma Plate", "veg": false, "options": [["Regular", 190], ["Full Meat", 250]] }
+    ]
+  },
+  {
+    "slug": "tandoori", "name": "Tandoori", "section": "Grill, Shawarma & Bread",
+    "items": [
+      { "name": "Tandoori Chicken", "veg": false, "options": [["Quarter", 140], ["Half", 240], ["Full", 480]] },
+      { "name": "Chicken Tikka (6 pcs)", "veg": false, "options": [["Regular", 160]] },
+      { "name": "Hariyali Chicken Tikka (5 pcs)", "veg": false, "options": [["Regular", 150]] },
+      { "name": "Paneer Tikka (6 pcs)", "veg": true, "options": [["Regular", 160]] },
+      { "name": "Kebab", "veg": false, "options": [["Regular", 70]] }
+    ]
+  },
+  {
+    "slug": "bread", "name": "Bread", "section": "Grill, Shawarma & Bread",
+    "items": [
+      { "name": "Chappathi (2 pcs)", "veg": true, "options": [["Regular", 30]] },
+      { "name": "Naan", "veg": true, "options": [["Regular", 25]] },
+      { "name": "Butter Naan", "veg": true, "options": [["Regular", 40]] },
+      { "name": "Garlic Naan", "veg": true, "options": [["Regular", 46]] },
+      { "name": "Tandoori Rotti", "veg": true, "options": [["Regular", 25]] },
+      { "name": "Butter Rotti", "veg": true, "options": [["Regular", 35]] },
+      { "name": "Kulcha", "veg": true, "options": [["Regular", 30]] },
+      { "name": "Butter Kulcha", "veg": true, "options": [["Regular", 40]] },
+      { "name": "Kubus", "veg": true, "options": [["Regular", 20]] },
+      { "name": "Tandoori Lachha Paratha", "veg": true, "options": [["Regular", 30]] },
+      { "name": "Butter Tandoori Lachha Paratha", "veg": true, "options": [["Regular", 40]] }
+    ]
+  }
+]
