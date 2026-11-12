@@ -1,0 +1,1264 @@
+[
+ {
+  "id": 1,
+  "slug": "soup",
+  "name": "Soup",
+  "section": "Soup & Starters",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 1,
+    "name": "Chicken Clear Soup",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 60
+     }
+    ]
+   },
+   {
+    "id": 2,
+    "name": "Chicken Hot and Sour Soup",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 70
+     }
+    ]
+   },
+   {
+    "id": 3,
+    "name": "Chicken Manchow Soup",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 80
+     }
+    ]
+   },
+   {
+    "id": 4,
+    "name": "Nandu Soup",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 80
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "slug": "non-veg-starters",
+  "name": "Non Veg Starters",
+  "section": "Soup & Starters",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 5,
+    "name": "Chicken 65 (6 pcs)",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 6,
+    "name": "Prawn 65",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 200
+     }
+    ]
+   },
+   {
+    "id": 7,
+    "name": "Pepper Chicken",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 8,
+    "name": "Chicken Wings (6 pcs)",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 9,
+    "name": "Lollipop (5 pcs)",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 10,
+    "name": "Honey Chicken",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 180
+     }
+    ]
+   },
+   {
+    "id": 11,
+    "name": "Dragon Chicken",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 180
+     }
+    ]
+   },
+   {
+    "id": 12,
+    "name": "Chicken Manchurian",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 13,
+    "name": "Prawn Manchurian",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": null
+     }
+    ]
+   },
+   {
+    "id": 14,
+    "name": "Chilli Chicken",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 15,
+    "name": "Chilli Prawn",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 190
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "slug": "veg-starters",
+  "name": "Veg Starters",
+  "section": "Soup & Starters",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 16,
+    "name": "Mushroom 65",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 17,
+    "name": "Mushroom Manchurian",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 250
+     }
+    ]
+   },
+   {
+    "id": 18,
+    "name": "Paneer Manchurian",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 19,
+    "name": "Gobi Manchurian",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 20,
+    "name": "Chilli Mushroom",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 21,
+    "name": "Chilli Paneer",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 22,
+    "name": "Chilli Gobi",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "slug": "rice",
+  "name": "Rice",
+  "section": "Rice, Noodles & Indian Gravy",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 23,
+    "name": "Egg Rice",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 120
+     }
+    ]
+   },
+   {
+    "id": 24,
+    "name": "Chicken Rice",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     }
+    ]
+   },
+   {
+    "id": 25,
+    "name": "Prawn Rice",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 180
+     }
+    ]
+   },
+   {
+    "id": 26,
+    "name": "Mixed Non-Veg Rice",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 190
+     }
+    ]
+   },
+   {
+    "id": 27,
+    "name": "Veg Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 100
+     }
+    ]
+   },
+   {
+    "id": 28,
+    "name": "Mushroom Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     }
+    ]
+   },
+   {
+    "id": 29,
+    "name": "Paneer Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     }
+    ]
+   },
+   {
+    "id": 30,
+    "name": "Gobi Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     }
+    ]
+   },
+   {
+    "id": 31,
+    "name": "Babycorn Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 32,
+    "name": "Garlic Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 33,
+    "name": "Burnt Garlic Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 170
+     }
+    ]
+   },
+   {
+    "id": 34,
+    "name": "Mixed Veg Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 100
+     }
+    ]
+   },
+   {
+    "id": 35,
+    "name": "Andhra Ghee Rice",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "slug": "noodles",
+  "name": "Noodles",
+  "section": "Rice, Noodles & Indian Gravy",
+  "note": "Noodles available 5:00 PM to 2:00 AM",
+  "availableFrom": "17:00",
+  "availableTo": "02:00",
+  "servingNow": true,
+  "items": [
+   {
+    "id": 36,
+    "name": "Egg Noodles",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 120
+     }
+    ]
+   },
+   {
+    "id": 37,
+    "name": "Chicken Noodles",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     }
+    ]
+   },
+   {
+    "id": 38,
+    "name": "Prawn Noodles",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 180
+     }
+    ]
+   },
+   {
+    "id": 39,
+    "name": "Mixed Non-Veg Noodles",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 190
+     }
+    ]
+   },
+   {
+    "id": 40,
+    "name": "Veg Noodles",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 100
+     }
+    ]
+   },
+   {
+    "id": 41,
+    "name": "Mushroom Noodles",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     }
+    ]
+   },
+   {
+    "id": 42,
+    "name": "Paneer Noodles",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     }
+    ]
+   },
+   {
+    "id": 43,
+    "name": "Gobi Noodles",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     }
+    ]
+   },
+   {
+    "id": 44,
+    "name": "Garlic Noodles",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 45,
+    "name": "Mixed Veg Noodles",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 170
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "slug": "indian-gravy",
+  "name": "Indian Gravy",
+  "section": "Rice, Noodles & Indian Gravy",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 46,
+    "name": "Hyderabad Chicken Gravy",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 230
+     }
+    ]
+   },
+   {
+    "id": 47,
+    "name": "Kadhai Chicken",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 210
+     }
+    ]
+   },
+   {
+    "id": 48,
+    "name": "Kadhai Mushroom",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 200
+     }
+    ]
+   },
+   {
+    "id": 49,
+    "name": "Paneer Butter Masala",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 210
+     }
+    ]
+   },
+   {
+    "id": 50,
+    "name": "Gobi Masala",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 130
+     }
+    ]
+   },
+   {
+    "id": 51,
+    "name": "Kadhai Paneer",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 190
+     }
+    ]
+   },
+   {
+    "id": 52,
+    "name": "Palak Paneer",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 210
+     }
+    ]
+   },
+   {
+    "id": 53,
+    "name": "Chettinad Chicken",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 180
+     }
+    ]
+   },
+   {
+    "id": 54,
+    "name": "Butter Chicken",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 200
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "slug": "grill",
+  "name": "Grill",
+  "section": "Grill, Shawarma & Bread",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 55,
+    "name": "Classic Grill",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Quarter",
+      "price": 150
+     },
+     {
+      "label": "Half",
+      "price": 230
+     },
+     {
+      "label": "Full",
+      "price": 430
+     }
+    ]
+   },
+   {
+    "id": 56,
+    "name": "Peri Peri Grill",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Quarter",
+      "price": 170
+     },
+     {
+      "label": "Half",
+      "price": 250
+     },
+     {
+      "label": "Full",
+      "price": 450
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "slug": "shawarma-roll",
+  "name": "Shawarma Roll",
+  "section": "Grill, Shawarma & Bread",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 57,
+    "name": "Classic Shawarma Roll",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 120
+     },
+     {
+      "label": "Full Meat",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 58,
+    "name": "Peri Peri Shawarma Roll",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 130
+     },
+     {
+      "label": "Full Meat",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 59,
+    "name": "Schezwan Shawarma Roll",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 130
+     },
+     {
+      "label": "Full Meat",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 60,
+    "name": "Mexican Shawarma Roll",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     },
+     {
+      "label": "Full Meat",
+      "price": 170
+     }
+    ]
+   },
+   {
+    "id": 61,
+    "name": "Cheese Shawarma Roll",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 140
+     },
+     {
+      "label": "Full Meat",
+      "price": 170
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "slug": "shawarma-plate",
+  "name": "Shawarma Plate",
+  "section": "Grill, Shawarma & Bread",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 62,
+    "name": "Classic Shawarma Plate",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": null
+     },
+     {
+      "label": "Full Meat",
+      "price": 240
+     }
+    ]
+   },
+   {
+    "id": 63,
+    "name": "Peri Peri Shawarma Plate",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 190
+     },
+     {
+      "label": "Full Meat",
+      "price": 250
+     }
+    ]
+   },
+   {
+    "id": 64,
+    "name": "Schezwan Shawarma Plate",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 190
+     },
+     {
+      "label": "Full Meat",
+      "price": 250
+     }
+    ]
+   },
+   {
+    "id": 65,
+    "name": "Mexican Shawarma Plate",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 200
+     },
+     {
+      "label": "Full Meat",
+      "price": 260
+     }
+    ]
+   },
+   {
+    "id": 66,
+    "name": "Cheese Shawarma Plate",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 190
+     },
+     {
+      "label": "Full Meat",
+      "price": 250
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "slug": "tandoori",
+  "name": "Tandoori",
+  "section": "Grill, Shawarma & Bread",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 67,
+    "name": "Tandoori Chicken",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Quarter",
+      "price": 140
+     },
+     {
+      "label": "Half",
+      "price": 240
+     },
+     {
+      "label": "Full",
+      "price": 480
+     }
+    ]
+   },
+   {
+    "id": 68,
+    "name": "Chicken Tikka (6 pcs)",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 69,
+    "name": "Hariyali Chicken Tikka (5 pcs)",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 150
+     }
+    ]
+   },
+   {
+    "id": 70,
+    "name": "Paneer Tikka (6 pcs)",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 160
+     }
+    ]
+   },
+   {
+    "id": 71,
+    "name": "Kebab",
+    "veg": false,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 70
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "slug": "bread",
+  "name": "Bread",
+  "section": "Grill, Shawarma & Bread",
+  "note": null,
+  "availableFrom": null,
+  "availableTo": null,
+  "servingNow": true,
+  "items": [
+   {
+    "id": 72,
+    "name": "Chappathi (2 pcs)",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 30
+     }
+    ]
+   },
+   {
+    "id": 73,
+    "name": "Naan",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 25
+     }
+    ]
+   },
+   {
+    "id": 74,
+    "name": "Butter Naan",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 40
+     }
+    ]
+   },
+   {
+    "id": 75,
+    "name": "Garlic Naan",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 46
+     }
+    ]
+   },
+   {
+    "id": 76,
+    "name": "Tandoori Rotti",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 25
+     }
+    ]
+   },
+   {
+    "id": 77,
+    "name": "Butter Rotti",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 35
+     }
+    ]
+   },
+   {
+    "id": 78,
+    "name": "Kulcha",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 30
+     }
+    ]
+   },
+   {
+    "id": 79,
+    "name": "Butter Kulcha",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 40
+     }
+    ]
+   },
+   {
+    "id": 80,
+    "name": "Kubus",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 20
+     }
+    ]
+   },
+   {
+    "id": 81,
+    "name": "Tandoori Lachha Paratha",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 30
+     }
+    ]
+   },
+   {
+    "id": 82,
+    "name": "Butter Tandoori Lachha Paratha",
+    "veg": true,
+    "available": true,
+    "signature": false,
+    "options": [
+     {
+      "label": "Regular",
+      "price": 40
+     }
+    ]
+   }
+  ]
+ }
+]
